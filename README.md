@@ -1,1 +1,2 @@
-# lab_comunicacoes
+# laboratório de comunicações
+
